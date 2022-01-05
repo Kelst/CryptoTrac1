@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Crypto Tracking</string>
+    <string name="app_name">Bitcoin World</string>
+    <string name="facebook_app_id">""</string>
 </resources>

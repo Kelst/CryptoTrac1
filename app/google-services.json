@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610409455075",
+    "project_id": "bitcoin-world-20446",
+    "storage_bucket": "bitcoin-world-20446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610409455075:android:9ad46890f7011d432894d6",
+        "android_client_info": {
+          "package_name": "com.cryptoworld.tradersrank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610409455075-o7hukpl8iha3blcia67krpfo786nmads.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL6Mn3pYEWaXEQBqvbgwQmIGw2R2C6uew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610409455075-o7hukpl8iha3blcia67krpfo786nmads.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
